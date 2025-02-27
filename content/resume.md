@@ -6,11 +6,22 @@ Tags: Resume, Portfolio, Profile
 Slug: resume
 Summary: This is the online resume of Kweku Okyere Assan.
 
+```markdown
 # KWEKU OKYERE ASSAN
 
 **Address:** 1792 Pembina Highway, Winnipeg Manitoba  
 **Mobile:** (+1) 431 338 3267  
 **Email:** [kwekuassan18@gmail.com](mailto:kwekuassan18@gmail.com)  
+
+---
+
+## 📑 Table of Contents
+1. [Education](#education)
+2. [Work Experience](#work-experience)
+3. [Volunteer Experience](#volunteer-experience)
+4. [Co-Curricular Activities](#co-curricular-activities)
+5. [Technical Skills](#technical-skills)
+6. [Certifications](#certifications)
 
 ---
 
@@ -61,7 +72,7 @@ Summary: This is the online resume of Kweku Okyere Assan.
 
 ---
 
-##  Co-Curricular Activities
+## 🎯 Co-Curricular Activities
 
 ### President  
 **Mfantsipim Computer Club, Mfantsipim School**  
@@ -86,3 +97,6 @@ Summary: This is the online resume of Kweku Okyere Assan.
 
 - **AWS Certified Cloud Practitioner**  
 - **AWS Certified Solutions Architect - Associate**  
+```
+
+
